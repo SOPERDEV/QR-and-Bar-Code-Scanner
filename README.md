@@ -1,11 +1,12 @@
-# Sample Snack app
+# QR and Bar Code Scanner
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+Checkout the output here : https://appetize.io/embed/xc1w6f1krd589zhp22a0mgftyw?autoplay=false&debug=true&device=pixel4&deviceColor=black&embed=true&launchUrl=exp:%2F%2Fexp.host%2F@snack%2Fsdk.39.0.0-lgj2TnXwtB&orientation=portrait&scale=81&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXDevMenuDisableAutoLaunch%22:true,%22EXKernelLaunchUrlDefaultsKey%22:%22exp:%2F%2Fexp.host%2F@snack%2Fsdk.39.0.0-lgj2TnXwtB%22,%22EXKernelDisableNuxDefaultsKey%22:true%7D&osVersion=10.0
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+This repository is made, managed and controlled by SOPERDEV (Software Personification and Development) 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+For more info visit : https://soperdev.com
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+Thankyou for your support ! 
+
+Stay Tuned for latest info !
